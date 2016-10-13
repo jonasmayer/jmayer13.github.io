@@ -10,13 +10,13 @@ layout: main.html
 ### 2015
 
 **Must do before die List** - https://github.com/jmayer13/Must_do_before_die_List
-- To do list that i did create while learning Angular.
+- To do list that I created while learning Angular
 
 ### 2014
 
 **COVA 2** - https://github.com/jmayer13/COVA2
 
-- A software that I built to test some concepts of CD. It stores some anime/series that you are currently watching
+- A software that I built to test some concepts of CD. It stores anime/series that the user is  currently watching
 
 **SAlmox** - https://github.com/jmayer13/SAlmox
 
@@ -27,7 +27,7 @@ layout: main.html
 ### 2013 <
 
 **BaldursGatePortraitsResizer** - https://github.com/jmayer13/BaldursGatePortraitsResizer
-- tool to resize images to use in the game Baldurs Gate
+- tool to resize images to use in the game Baldur's Gate
 
 **Academia Biometria** - https://github.com/jmayer13/academia_biometria
 - Example of usage of fingerprints reader 
