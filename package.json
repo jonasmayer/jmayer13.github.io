@@ -3,30 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mdx-deck": "^2.3.2"
+  },
   "scripts": {
-    "start": "node build.js",
-    "deploy": "git subtree push --prefix build origin master"
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jmayer13/jmayer13.github.io.git"
   },
-  "author": "Jonas MAyer",
-  "license": "CC0",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jmayer13/jmayer13.github.io/issues"
   },
-  "homepage": "https://github.com/jmayer13/jmayer13.github.io#readme",
-  "dependencies": {
-    "handlebars": "^4.0.5",
-    "handlebars-layouts": "^3.1.3",
-    "handlebars-watch": "^0.1.0",
-    "metalsmith": "^2.2.0",
-    "metalsmith-assets": "^0.1.0",
-    "metalsmith-collections": "^0.7.0",
-    "metalsmith-layouts": "^1.6.5",
-    "metalsmith-markdown": "^0.2.1",
-    "metalsmith-sass": "^1.3.0",
-    "metalsmith-watch": "^1.0.3"
-  }
+  "homepage": "https://github.com/jmayer13/jmayer13.github.io#readme"
 }
